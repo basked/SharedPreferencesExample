@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SharedPreferencesExample</string>
-</resources>
+    <string name="user_name">basked</string>
+    <string name="user_password">lastmove</string>
+    <string name="login_preference">pro.basked.sharedpreferencesexample_login_preference</string>
+    <string name="login_status_preference">pro.basked.sharedpreferencesexample_login_status_preference</string>
+
+    </resources>
